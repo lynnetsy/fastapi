@@ -1,0 +1,10 @@
+APP_ NAME=app
+APP_VERSION=0.1.0
+APP_ENV=development
+
+DB_ENGINE=sqlite
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=postgres
+DB_USER=postgres
+DB_PASSWORD=postgres
